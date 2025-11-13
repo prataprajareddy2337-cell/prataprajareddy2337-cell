@@ -9,8 +9,12 @@
 </p>
 
 ### 👋 About Me
-- Python + AWS developer focused on robust data pipelines, analytics, and ML.
-- Currently building ETL on **AWS (S3, RDS, Lambda)** with **Python + SQL**.
+- Data Engineer with 4+ years of eperience skilled in building end-to-end data pipelines and cloud-based architectures for analytics and decision making.
+Experienced in designing scalable ETL/ELT workflows for data ingestion, transformation, and quality validation.
+Strong in Python, SQL, and PySpark for automating data aggregation and performance optimization.
+Hands-on with AWS, Azure, and Databricks ecosystems for data storage, orchestration, and governance.
+Adept at modeling relational and analytical datasets in PostgreSQL, Snowflake, and Delta Lake.
+Passionate about delivering reliable, high-quality data systems that drive measurable business impact.
 - Open to collaborating on data engineering, MLOps, and ML projects.
 - 📬 **prataprajareddy2337@gmail.com** · 📍 San Antonio, TX · [LinkedIn](https://linkedin.com/in/prataprajareddychirra/)
 
