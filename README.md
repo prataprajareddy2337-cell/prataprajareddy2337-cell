@@ -9,7 +9,7 @@
 </p>
 
 ### 👋 About Me
-- Data Engineer with 4+ years of eperience skilled in building end-to-end data pipelines and cloud-based architectures for analytics and decision making.
+- Data Engineer with 5+ years of eperience skilled in building end-to-end data pipelines and cloud-based architectures for analytics and decision making.
 Experienced in designing scalable ETL/ELT workflows for data ingestion, transformation, and quality validation.
 Strong in Python, SQL, and PySpark for automating data aggregation and performance optimization.
 Hands-on with AWS, Azure, and Databricks ecosystems for data storage, orchestration, and governance.
@@ -43,30 +43,56 @@ Passionate about delivering reliable, high-quality data systems that drive measu
 
 ### 🚀 Featured Projects
 
-<details>
-  <summary><b>COVID-19 Data Pipeline</b> · Python · AWS S3/RDS · Power BI</summary>
+<details> <summary><b>DeltaRAG-Lakehouse: High-Volume Document ETL + RAG Pipeline</b> · Databricks · PySpark · Delta Lake · SentenceTransformers</summary>
 
-- End-to-end ETL: ingest → clean → aggregate → visualize  
-- Python + SQL; storage in S3/RDS; dashboards in Power BI  
-- Repo: https://github.com/prataprajareddy2337-cell/covid-data-pipeline  
-- Try notebook (Binder): https://mybinder.org/v2/gh/prataprajareddy2337-cell/covid-data-pipeline/HEAD  
-- Focus: reproducible workflows, quality checks, and low-latency reporting
+End-to-end RAG system on Databricks (Free Edition): Bronze → Silver → Gold layers
+
+Chunking + vector embeddings (all-MiniLM-L6-v2) stored in Delta tables
+
+Vector search + Top-K retrieval + LLM prompt builder
+
+Architecture included: ETL, embeddings, similarity search, and LLM response generation
+
+Repo: https://github.com/prataprajareddy2337-cell/DeltaRAG-Lakehouse
+
+Focus: scalable ETL, fast semantic retrieval, clean modular pipeline design
+
 </details>
+<details> <summary><b>COVID-19 Data Pipeline</b> · Python · AWS S3/RDS · Power BI</summary>
 
-<details>
-  <summary><b>Inventory Classification & Forecast Optimization</b> · Python · SQL · AWS</summary>
+Full ETL workflow: ingest → clean → aggregate → visualize
 
-- ABC analysis on 68k+ SKUs; −22% inventory ageing; +18% stocking efficiency  
-- Forecasting + BI visuals; data in S3; refresh checks for freshness
+Python & SQL pipeline storing data in S3 + RDS with automated refresh
+
+Power BI dashboard for trends, forecasts & anomaly insights
+
+Repo: https://github.com/prataprajareddy2337-cell/covid-data-pipeline
+
+Live notebook (Binder): https://mybinder.org/v2/gh/prataprajareddy2337-cell/covid-data-pipeline/HEAD
+
+Focus: reproducible workflows, quality checks, low-latency reporting
+
 </details>
+<details> <summary><b>Inventory Classification & Forecast Optimization</b> · Python · SQL · AWS</summary>
 
-<details>
-  <summary><b>Cash Flow & Revenue Pipeline Optimization</b> · Python · Airflow</summary>
+ABC classification on 68,000+ SKUs
 
-- Automated batch workflows; 70% faster SQL; reporting latency cut 12h → <2h  
-- Patterns: idempotent tasks, retries, alerts, and SLA-based refreshes
+Improved stocking efficiency by +18%, reduced inventory ageing by −22%
+
+Forecast models + automated refresh checks for data freshness
+
+Focus: supply-chain analytics, SKU priority modeling, predictive planning
+
 </details>
+<details> <summary><b>Cash Flow & Revenue Pipeline Optimization</b> · Python · Airflow</summary>
 
+Automated Airflow batch pipelines with retry logic + monitoring
+
+Improved SQL performance by 70%, reduced reporting latency 12h → <2h
+
+Focus: idempotent task design, alerting, SLA-driven workflows
+
+</details>
 ---
 
 ### 📈 GitHub Stats
