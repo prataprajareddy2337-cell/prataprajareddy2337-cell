@@ -106,14 +106,6 @@ Focus: idempotent task design, alerting, SLA-driven workflows
 </p>
 
 ---
-
-### 🎧 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&bar_color=58A6FF&bar_color_cover=false" />
-</p>
-
----
-
 ### 🤝 Connect
 **Email:** prataprajareddy2337@gmail.com · **LinkedIn:** https://linkedin.com/in/prataprajareddychirra/
 
