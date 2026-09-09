@@ -9,7 +9,7 @@
 </p>
 
 ### 👋 About Me
-- Data Engineer with 5+ years of eperience skilled in building end-to-end data pipelines and cloud-based architectures for analytics and decision making.
+- Data Engineer with 10+ years of eperience skilled in building end-to-end data pipelines and cloud-based architectures for analytics and decision making.
 Experienced in designing scalable ETL/ELT workflows for data ingestion, transformation, and quality validation.
 Strong in Python, SQL, and PySpark for automating data aggregation and performance optimization.
 Hands-on with AWS, Azure, and Databricks ecosystems for data storage, orchestration, and governance.
